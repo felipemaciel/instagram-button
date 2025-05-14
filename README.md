@@ -1,5 +1,5 @@
-# Module - Link Button
-This Extension add a new field called Link button, this button allows to perform various actions.
+# Module - Instagram Button
+This Extension add a new field called Instagram button, this button allows to perform various actions.
 
 ## Table of Contents
 
@@ -69,5 +69,5 @@ After installation visit the entity manager to create a new Link Button field
 
 ### Pre-build extension release
 
-1. Download the latest release from [Release page](https://github.com/Kharg/link-button/releases/latest).
+1. Download the latest release from [Release page](https://github.com/felipemaciel/instagram-button/releases/latest).
 2. Go to **Administration** -> **Extensions** and upload the downloaded file.

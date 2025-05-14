@@ -1,7 +1,7 @@
 {
     "name": "Instagram Button",
     "description": "Button Field to open a instagram button in a new tab, in a popup or a modal.",
-    "author": "Andrew Fontana",
+    "author": "Felipe Maciel",
     "php": [
         ">=7.0"
     ],

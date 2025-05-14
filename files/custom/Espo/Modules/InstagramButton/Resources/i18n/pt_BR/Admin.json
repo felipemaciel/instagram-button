@@ -1,0 +1,59 @@
+{
+    "fieldTypes": {
+        "instagram-button": "Botão de Instagram"
+    },
+    "fields": {
+        "iconLeft": "Ícone à esquerda",
+        "iconRight": "Ícone à direita",
+        "mode": "Modo",
+        "buttonLabel": "Etiqueta",
+        "placeholder": "Valor do Placeholder",
+        "hideLabel": "Ocultar rótulo", 
+        "buttonSize": "Tamanho do botão",
+        "style": "Estilo",
+        "title": "Título",
+        "confirmationDialog": "Confirmation Dialog",
+        "confirmationText": "Confirmation Text",
+        "hideOriginalWorkflowAction": "Hide Original Workflow Action",
+        "popupHeight": "Popup Height",
+        "popupWidth": "Popup Width"
+    },
+    "options": {
+        "style": {
+            "default": "Padrão",
+            "primary": "Primário",
+            "secondary": "Secundário",
+            "success": "Bem sucedido",
+            "danger": "Perigo",
+            "warning": "Aviso",
+            "info": "Info",
+            "dark": "Escuro",
+            "light": "Claro",
+            "outline-primary": "Esboço: Primário",
+            "outline-secondary": "Esboço: Secundário",
+            "outline-success": "Esboço: Bem sucedido",
+            "outline-danger": "Esboço: Perigo",
+            "outline-warning": "Esboço: Aviso",
+            "outline-info": "Esboço: Info",
+            "outline-dark": "Contorno: Escuro",
+            "outline-light": "Contorno: Claro"
+        },
+        "buttonSize": {
+            "btn-sm": "Pequeno",
+            "btn-md": "Médio",
+            "btn-lg": "Grande",
+            "btn-sm btn-block": "Bloco Pequeno",
+            "btn-md btn-block": "Bloco Médio",
+            "btn-lg btn-block": "Bloco Grande"
+        },
+        "mode": {
+            "openNewTab": "abrir em uma nova aba",
+            "openUrl": "abrir na mesma janela",
+            "openPopup": "abrir pop-up",
+            "openModal": "abrir Modal",
+            "openEspoModal": "abrir Espo Modal",
+            "quickCreate": "Criação rápida",
+            "runEspoWorkflow": "Executar Workflow"
+        }
+    }
+}

@@ -1,5 +1,0 @@
-{
-    "isAdvancedPackInstalled": {
-        "className": "Espo\\Modules\\LinkButton\\Classes\\AppParams\\CheckAdvancedPack"
-    }
-}

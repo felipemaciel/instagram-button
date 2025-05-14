@@ -1,0 +1,5 @@
+{
+    "isAdvancedPackInstalled": {
+        "className": "Espo\\Modules\\InstagramButton\\Classes\\AppParams\\CheckAdvancedPack"
+    }
+}

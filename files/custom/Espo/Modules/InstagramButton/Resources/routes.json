@@ -1,0 +1,10 @@
+[
+    {
+      "route": "/InstagramButton/WorkflowCheck/:id",
+      "method": "get",
+      "actionClassName": "Espo\\Modules\\InstagramButton\\Api\\WorkflowCheck",
+      "params": {
+            "id": ":id"
+        }
+    }
+]
