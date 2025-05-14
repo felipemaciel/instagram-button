@@ -1,6 +1,6 @@
 <?php
 
-namespace Espo\Modules\LinkButton\Api;
+namespace Espo\Modules\InstagramButton\Api;
 
 use Espo\Core\Api\Action;
 use Espo\Core\Api\Request;
