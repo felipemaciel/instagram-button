@@ -1,6 +1,6 @@
 {
-    "name": "Link Button",
-    "description": "Button Field to open a link in a new tab, in a popup or a modal.",
+    "name": "Instagram Button",
+    "description": "Button Field to open a instagram button in a new tab, in a popup or a modal.",
     "author": "Andrew Fontana",
     "php": [
         ">=7.0"
@@ -8,7 +8,7 @@
     "acceptableVersions": [
         ">=7.0"
     ],
-    "version": "2.0.0",
+    "version": "2.0.1",
     "skipBackup": true,
-    "releaseDate": "2025-02-15"
+    "releaseDate": "2025-05-14"
 }
