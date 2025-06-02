@@ -1,4 +1,4 @@
-define('instagram-button:views/fields/instagram-button', ['views/fields/url'], (Dep) => {
+define('instagram-button:views/fields/instagram-button', ['views/fields/varchar'], (Dep) => {
     return class extends Dep {
 
         type = 'instagram-button'

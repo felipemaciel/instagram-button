@@ -1,7 +1,7 @@
-define('link-button:views/modals/button-url', ['views/modal'], (Dep) => {
+define('instagram-button:views/modals/button-url', ['views/modal'], (Dep) => {
     return class extends Dep {
 
-        template = 'link-button:modals/button-url'
+        template = 'instagram-button:modals/button-url'
         fitHeight = true
         isCollapsable = true
         
