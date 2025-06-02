@@ -1,10 +1,10 @@
-define('link-button:views/fields/link-button', ['views/fields/url'], (Dep) => {
+define('instagram-button:views/fields/instagram-button', ['views/fields/url'], (Dep) => {
     return class extends Dep {
 
-        type = 'link-button'
-        editTemplate = 'link-button:fields/edit'
-        listTemplate = 'link-button:fields/list'
-        detailTemplate = 'link-button:fields/detail'
+        type = 'instagram-button'
+        editTemplate = 'instagram-button:fields/edit'
+        listTemplate = 'instagram-button:fields/list'
+        detailTemplate = 'instagram-button:fields/detail'
 
         setup() {
             super.setup();
@@ -67,7 +67,7 @@ define('link-button:views/fields/link-button', ['views/fields/url'], (Dep) => {
 
         actionOpenModal() {
             this.notify('Loading...');
-            this.createView('dialog', 'link-button:views/modals/button-url', {
+            this.createView('dialog', 'instagram-button:views/modals/button-url', {
                 buttonLabel: this.model.getFieldParam(this.name, 'buttonLabel') || null,
                 url: this.model.get(this.name),
                 closeButton: true,
@@ -101,7 +101,7 @@ define('link-button:views/fields/link-button', ['views/fields/url'], (Dep) => {
             }
         
             this.notify('Loading...');
-            this.createView('quickView', 'link-button:views/modals/espo-modal', {
+            this.createView('quickView', 'instagram-button:views/modals/espo-modal', {
                 scope: entityType,
                 id: recordId,
                 removeDisabled: true,
@@ -212,7 +212,7 @@ define('link-button:views/fields/link-button', ['views/fields/url'], (Dep) => {
                 return Espo.Ui.error(('Error: not a workflow'));
             }
         
-            Espo.Ajax.getRequest('LinkButton/WorkflowCheck/' + workflowId)
+            Espo.Ajax.getRequest('InstagramButton/WorkflowCheck/' + workflowId)
                 .then(response => {
                     if (response.isManual === false) {
                         return Espo.Ui.error(('Error: not a manual or active workflow'));
