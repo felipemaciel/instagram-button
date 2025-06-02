@@ -1,6 +1,6 @@
 {
     "fieldTypes": {
-        "link-button": "Schaltfläche-Link"
+        "instagram-button": "Schaltfläche-Link"
     },
     "fields": {
         "iconLeft": "Icon links",
