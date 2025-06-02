@@ -1,4 +1,4 @@
-define('link-button:views/admin/field-manager/fields/popup', ['views/fields/int'], (Dep) => {
+define('instagram-button:views/admin/field-manager/fields/popup', ['views/fields/int'], (Dep) => {
     return class extends Dep {
 
         setup() {
