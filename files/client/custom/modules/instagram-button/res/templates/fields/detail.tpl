@@ -1,6 +1,6 @@
 {{#ifEqual mode 'openNewTab'}}
     {{#if value}}
-        <a href="https://instagram.com/{{varchar}}" class="btn btn-{{style}} {{buttonSize}}" title="{{title}}" target="_blank">
+        <a href="https://instagram.com/{{url}}" class="btn btn-{{style}} {{buttonSize}}" title="{{title}}" target="_blank">
             {{#if iconLeft}}
             <span class="{{iconLeft}}"></span>
 			{{/if}}
