@@ -1,5 +1,6 @@
 # Module - Instagram Button
 This Extension add a new field called Instagram button, this button allows to perform various actions.
+🚀
 
 ## Table of Contents
 
