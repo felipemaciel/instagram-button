@@ -1,4 +1,4 @@
-define('link-button:views/admin/field-manager/fields/confirmation-dialog', ['views/fields/bool'], (Dep) => {
+define('instagram-button:views/admin/field-manager/fields/confirmation-dialog', ['views/fields/bool'], (Dep) => {
     return class extends Dep {
 
         setup() {
