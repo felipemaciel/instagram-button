@@ -1,4 +1,4 @@
-define('link-button:views/admin/field-manager/fields/mode', ['views/fields/enum'], (Dep) => {
+define('instagram-button:views/admin/field-manager/fields/mode', ['views/fields/enum'], (Dep) => {
     return class extends Dep {
         
         setup() {
