@@ -20,8 +20,6 @@ This extension enhances EspoCRM by introducing a button field that can store URL
 - Integrating EspoCRM-specific links within an Espo Modal for seamless navigation.
 - Running an Advanced Pack manual workflow.
 
-![image](https://github.com/Kharg/link-button/assets/32223252/299269b0-a24c-4f50-90f7-5408430584d8)
-
 
 Choose Between 17 different button styles:
 - default
@@ -42,10 +40,6 @@ Choose Between 17 different button styles:
 - outline-dark
 - outline-light
 
-  ![image](https://github.com/Kharg/link-button/assets/32223252/af29939c-fc65-4e42-9bec-01af545050bf)
-  ![image](https://github.com/Kharg/link-button/assets/32223252/aa57a77c-5b01-4699-a2e9-620d5d94062b)
-
-
 
 And between 6 different button sizes:
 - btn-sm
@@ -56,8 +50,6 @@ And between 6 different button sizes:
 - btn-lg btn-block
 
 After installation visit the entity manager to create a new Link Button field
-
-![image](https://github.com/Kharg/link-button/assets/32223252/e13654bf-ce77-487c-9a64-6600f6ac7f04)
 
 
 
